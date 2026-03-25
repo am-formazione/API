@@ -71,6 +71,14 @@
       "regione": "Lazio",
       "tipologia": "Arte Contemporanea",
       "visitatoriAnnui": 400000
+    },
+    {
+      "nome": "Palazzo Pitti e i suoi musei",
+      "annoFondazione": 1458,
+      "città": "Firenze",
+      "regione": "Toscana",
+      "tipologia": "Arte e Storia",
+      "visitatoriAnnui": 600000
     }
   ]
 }
