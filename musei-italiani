@@ -1,0 +1,76 @@
+{
+  "musei": [
+    {
+      "nome": "Musei Vaticani",
+      "annoFondazione": 1506,
+      "città": "Città del Vaticano",
+      "regione": "Lazio",
+      "tipologia": "Arte e Storia",
+      "visitatoriAnnui": 6000000
+    },
+    {
+      "nome": "Galleria degli Uffizi",
+      "annoFondazione": 1581,
+      "città": "Firenze",
+      "regione": "Toscana",
+      "tipologia": "Arte",
+      "visitatoriAnnui": 2200000
+    },
+    {
+      "nome": "Museo Nazionale del Cinema",
+      "annoFondazione": 1958,
+      "città": "Torino",
+      "regione": "Piemonte",
+      "tipologia": "Cinema e Media",
+      "visitatoriAnnui": 600000
+    },
+    {
+      "nome": "Museo Archeologico Nazionale di Napoli",
+      "annoFondazione": 1816,
+      "città": "Napoli",
+      "regione": "Campania",
+      "tipologia": "Archeologia",
+      "visitatoriAnnui": 550000
+    },
+    {
+      "nome": "Museo del Novecento",
+      "annoFondazione": 2010,
+      "città": "Milano",
+      "regione": "Lombardia",
+      "tipologia": "Arte Moderna e Contemporanea",
+      "visitatoriAnnui": 800000
+    },
+    {
+      "nome": "Museo di Capodimonte",
+      "annoFondazione": 1738,
+      "città": "Napoli",
+      "regione": "Campania",
+      "tipologia": "Arte e Storia",
+      "visitatoriAnnui": 500000
+    },
+    {
+      "nome": "Museo Egizio",
+      "annoFondazione": 1824,
+      "città": "Torino",
+      "regione": "Piemonte",
+      "tipologia": "Archeologia",
+      "visitatoriAnnui": 1300000
+    },
+    {
+      "nome": "Pinacoteca di Brera",
+      "annoFondazione": 1776,
+      "città": "Milano",
+      "regione": "Lombardia",
+      "tipologia": "Arte",
+      "visitatoriAnnui": 400000
+    },
+    {
+      "nome": "MAXXI - Museo nazionale delle arti del XXI secolo",
+      "annoFondazione": 2009,
+      "città": "Roma",
+      "regione": "Lazio",
+      "tipologia": "Arte Contemporanea",
+      "visitatoriAnnui": 400000
+    }
+  ]
+}
