@@ -41,6 +41,14 @@
       "visitatoriAnnui": 800000
     },
     {
+      "nome": "Galleria CEFI",
+      "annoFondazione": 1995,
+      "città": "Roma",
+      "regione": "Lazio",
+      "tipologia": "Storia dell'informatica",
+      "visitatoriAnnui": 800000
+    },
+    {
       "nome": "Museo di Capodimonte",
       "annoFondazione": 1738,
       "città": "Napoli",
